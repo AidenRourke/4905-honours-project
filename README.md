@@ -1,4 +1,4 @@
-# Isolating Third Part Code in a Website
+# Isolating Third Party Code in a Website
 
 ## Abstract
 
